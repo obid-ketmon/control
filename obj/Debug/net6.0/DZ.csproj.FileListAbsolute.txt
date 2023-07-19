@@ -1,0 +1,15 @@
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\bin\Debug\net6.0\DZ.exe
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\bin\Debug\net6.0\DZ.deps.json
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\bin\Debug\net6.0\DZ.runtimeconfig.json
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\bin\Debug\net6.0\DZ.dll
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\bin\Debug\net6.0\DZ.pdb
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\obj\Debug\net6.0\DZ.csproj.AssemblyReference.cache
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\obj\Debug\net6.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\obj\Debug\net6.0\DZ.AssemblyInfoInputs.cache
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\obj\Debug\net6.0\DZ.AssemblyInfo.cs
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\obj\Debug\net6.0\DZ.csproj.CoreCompileInputs.cache
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\obj\Debug\net6.0\DZ.dll
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\obj\Debug\net6.0\refint\DZ.dll
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\obj\Debug\net6.0\DZ.pdb
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\obj\Debug\net6.0\DZ.genruntimeconfig.cache
+D:\Obid\Lesson\Geek Brains\Разработчик. Основной блок\Итоги блока. Выбор специализации\DZ\obj\Debug\net6.0\ref\DZ.dll
