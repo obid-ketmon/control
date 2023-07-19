@@ -1,0 +1,70 @@
+<mxfile host="Electron" modified="2023-07-19T11:36:50.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="WSvJKoNUot5TKVp1_7IW" version="21.5.0" type="device">
+  <diagram id="6YwQQIW8eCQRHDkm4CSs" name="Page-1">
+    <mxGraphModel dx="1658" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DnkCzbvQFBXvj7n7dTfT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DnkCzbvQFBXvj7n7dTfT-1" target="DnkCzbvQFBXvj7n7dTfT-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DnkCzbvQFBXvj7n7dTfT-1" value="   Ввод массива строк&amp;nbsp;&lt;br&gt;(Console.WriteLine, Console.ReadLine)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="10" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DnkCzbvQFBXvj7n7dTfT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DnkCzbvQFBXvj7n7dTfT-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnkCzbvQFBXvj7n7dTfT-2" value="Разбиение строки на массив &lt;br&gt;&amp;nbsp;(Split)  " style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="120" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3h2_Qhta2nBNOyKN_ege-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DnkCzbvQFBXvj7n7dTfT-3" target="3h2_Qhta2nBNOyKN_ege-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DnkCzbvQFBXvj7n7dTfT-3" value="  &amp;nbsp; Цикл for по каждой строке массива " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="325" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3h2_Qhta2nBNOyKN_ege-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DnkCzbvQFBXvj7n7dTfT-5" target="3h2_Qhta2nBNOyKN_ege-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DnkCzbvQFBXvj7n7dTfT-5" value="&lt;div&gt;&amp;nbsp;Цикл for по каждой строке массива&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;(добавление строк, удовлетворяющих условию)&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="640" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="B7fp_Nzf1htRCQnwWERk-6" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="565" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B7fp_Nzf1htRCQnwWERk-10" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="440" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3h2_Qhta2nBNOyKN_ege-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3h2_Qhta2nBNOyKN_ege-2" target="DnkCzbvQFBXvj7n7dTfT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3h2_Qhta2nBNOyKN_ege-2" value=" Инициализация переменных&amp;nbsp;&lt;br&gt;&amp;nbsp;(resultArray, resultSize, index) " style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3h2_Qhta2nBNOyKN_ege-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3h2_Qhta2nBNOyKN_ege-4" target="DnkCzbvQFBXvj7n7dTfT-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="495" />
+              <mxPoint x="520" y="365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h2_Qhta2nBNOyKN_ege-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3h2_Qhta2nBNOyKN_ege-4" target="DnkCzbvQFBXvj7n7dTfT-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h2_Qhta2nBNOyKN_ege-4" value="&lt;div&gt;&amp;nbsp; Если длина строки&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;lt;= 3 символов&amp;nbsp;&lt;/div&gt;&lt;div&gt;(условие if,&amp;nbsp;&lt;/div&gt;&lt;div&gt;действия по подсчету&amp;nbsp;&lt;/div&gt;&lt;div&gt;размера)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3h2_Qhta2nBNOyKN_ege-13" value="&lt;div&gt;Вывод результата&amp;nbsp;&lt;/div&gt;&lt;div&gt;(Console.WriteLine)&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
